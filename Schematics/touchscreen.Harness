@@ -1,0 +1,2 @@
+I²C=SCL,SDA
+Touchscreen=X+,SX+,Y+,SY+,X-,5WSX-,Y-,SY-

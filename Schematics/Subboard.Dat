@@ -1,0 +1,31 @@
+﻿Field=Comment~String~Comment~98|Field=Description~String~Description~98|Field=Quantity~Integer~Quantity~98|Field=Manufacturer 1~String~Manufacturer 1~98|Field=Supplier 1~String~Supplier 1~98|Field=Supplier Order Qty 1~Integer~Supplier Order Qty 1~164|Field=Supplier Part Number 1~String~Supplier Part Number 1~91|Field=Supplier Unit Price 1~Float~Supplier Unit Price 1~38|Field=Supplier Subtotal 1~Float~Supplier Subtotal 1~103|Field=Supplier Currency 1~String~Supplier Currency 1~100|ReportField=Currency~EUR|ReportField=ProductionQuantity~3|ReportField=ProjectFileName~Subboard.PrjPCB|ReportField=ProjectFullPath~C:\Users\11hellwig\hardware\schematics\Hambot\Subboard\Subboard.PrjPCB|ReportField=Title~Copy of Bill of Materials For Project [Subboard.PrjPCB] (PCB Document : subboard.PcbDoc)|ReportField=TotalQuantity~161|ReportField=ReportTime~11:05:48|ReportField=ReportDate~18.05.2015|ReportField=ReportDateTime~18.05.2015 11:05:48|ReportField=OutputName~Copy of Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=ProjectRevision~A|ReportField=Address1~Vogt-Kölln-Str. 30|ReportField=Address2~22527 Hamburg|ReportField=Address3~Germany|ReportField=Address4~www.bit-bots.de|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~Marcel Hellwig|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=ConfigurationParameters~|ReportField=ConfiguratorName~|ReportField=CurrentDate~18.05.2015|ReportField=CurrentTime~11:05:06|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\11hellwig\hardware\schematics\Hambot\Subboard\TopLevel.SchDoc|ReportField=DocumentName~TopLevel.SchDoc|ReportField=DocumentNumber~1|ReportField=DrawnBy~|ReportField=EMail~info@bit-bots.de|ReportField=Engineer~|ReportField=ImagePath~|ReportField=IsUserConfigurable~|ReportField=ModifiedDate~18.05.2015|ReportField=Organization~Hamburg Bit-Bots|ReportField=ProjectName~Subboard.PrjPCB|ReportField=Revision~A|ReportField=Rule~|ReportField=SheetNumber~1|ReportField=SheetTotal~16|ReportField=Time~|ReportField=Title~Subboard Overview|ReportField=VersionControl_RevNumber~|ReportField=DataSourceFileName~Subboard.PrjPCB|ReportField=DataSourceFullPath~C:\Users\11hellwig\hardware\schematics\Hambot\Subboard\Subboard.PrjPCB|ReportField=PCBDataSourceFileName~subboard.PcbDoc|ReportField=PCBDataSourceFullPath~C:\Users\11hellwig\hardware\schematics\Hambot\Subboard\subboard.PcbDoc
+1k|Resistor|22|MULTICOMP|Farnell|66|9332391|0,02||EUR
+1uF|Capacitor|7|MULTICOMP|Farnell|21|2320827|0,063||EUR
+2k2|Resistor|4|MULTICOMP|Farnell|100|2073690|0,0147||EUR
+2.2uF|Capacitor|4|MULTICOMP|Farnell|12|2320829|0,106||EUR
+4k7|Resistor|8|MULTICOMP|Farnell|24|9333266|0,018||EUR
+10k|Resistor|14|MULTICOMP|Farnell|42|9332391|0,02||EUR
+10nF|Capacitor|4|MULTICOMP|Farnell|12|1759246|0,013||EUR
+10uF|Capacitor|3|MULTICOMP|Farnell|9|2320833|0,154||EUR
+15pF|Capacitor|2|MULTICOMP|Farnell|10|1759193|0,021||EUR
+20k|Resistor|1|MULTICOMP|Farnell|100|2073683|0,0147||EUR
+74HC126|Quad 3-State Noninverting Buffer|2|NXP|Farnell|6|1085233|0,513||EUR
+100nF|Capacitor|33|MULTICOMP|Farnell|99|1759265|0,013||EUR
+120R|Resistor|6|MULTICOMP|Farnell|100|2073624|0,0147||EUR
+200k|Resistor|1|MULTICOMP|Farnell|100|2074396|0,0116||EUR
+330uF|Polarized Capacitor (Radial)|2|PANASONIC ELECTRONIC COMPONENTS|Farnell|6|2326180|0,984||EUR
+470R|Resistor|10|MULTICOMP|Farnell|100|2074468|0,0116||EUR
+418121270802|WS-DISV 2.54 mm small compact SMD Dip Switch with raised actuator|2|OMRON ELECTRONIC COMPONENTS|Farnell|6|1960894|1,88||EUR
+AR1021T-I/SS|AR1000 Series Resistive Touch Screen Controller, 1024 x 1024 Resolution, 3.3 Vdc, 5.5 Vdc power, SPI, I²C™ Communication, -40 to 85 degC, 20-pin SSOP (SS20), Tape and Reel|1|MICROCHIP|Farnell|3|2218568|1,89||EUR
+Battery|Multicell Battery|1|MULTICOMP|Farnell|5|2064725|0,481||EUR
+FXO-HC736R-16|Oscillator with Enable Input|2|FOX ELECTRONICS|Farnell|6|1640997|1,83||EUR
+Green|Typical INFRARED GaAs LED|20|VISHAY|Farnell|60|1659076|0,0998||EUR
+GTL2002|2-bit bidirectional lo  w voltage translator|1|NXP|Farnell|3|2212066|0,49||EUR
+MAX3079|MAX3079 RS485-Transreceiver|3|MAXIM INTEGRATED PRODUCTS|Farnell|9|1379892|5,62||EUR
+Micro-USB||1|Molex|Mouser|3|538-105017-0001|0,787|2,361|EUR
+microSD|Micro SD Card Connector|1|HIROSE(HRS)|Farnell|3|2427719|1,37||EUR
+NCP1117ST33T3G|1.0 A Low-Dropout Positive Fixed Voltage Regulator, 5 V Vout, 0 to 125 degC, 4-Pin SOT-223, Pb-Free, Tape and Reel|1|ON SEMICONDUCTOR|Farnell|10|1652366|0,514||EUR
+RESET|Switch|1|MULTICOMP|Farnell|3|2396053|0,221||EUR
+S25FL512SAGBHI310|MirrorBit Flash Non-Volatile Memory CMOS 3.0 Volt Core with Versatile I/O, Serial Peripheral Interface with Multi-I/O, 128 Mbit, 133 MHz, -40 to 85 degC, 24-Ball BGA (FAC024), RoHS, Tray|1|SPANSION|Farnell|3|2340547|6,28||EUR
+STM32F407ZGT6J|ARM Cortex-M4 32-bit MCU+FPU, 210 DMIPS, 1024 kB Flash, 192 kB Internal RAM, 114 I/Os, 144-pin LQFP, -40 to 85 degC, Tray|2|STMICROELECTRONICS|Farnell|6|2333299|8,8209||EUR
+Touch LED|Typical INFRARED GaAs LED|1|VISHAY|Farnell|5|1659076|0,105||EUR

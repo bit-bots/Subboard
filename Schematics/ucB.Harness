@@ -1,0 +1,2 @@
+SPI=SCK,\SS,MISO,MOSI,GPIO
+Tri-State=A,OE

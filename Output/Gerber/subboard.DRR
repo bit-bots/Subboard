@@ -1,0 +1,18 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: subboard.PcbDoc   18.05.2015  11:04:56
+---------------------------------------------------------------------------
+
+Layer Pair : L1 to L4
+ASCII Plated RoundHoles File : subboard-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : subboard-SlotHoles-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          212              1194.06 mm (47.01 Inch)
+T2        0.6mm (23.622mil)        Slot           2                14.23 mm (0.56 Inch)
+T3        0.85mm (33.465mil)       Round          2                5.00 mm (0.20 Inch)
+T4        0.9mm (35.433mil)        Round          22               140.70 mm (5.54 Inch)
+---------------------------------------------------------------------------
+Totals                                            238              1353.99 mm (53.31 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00
